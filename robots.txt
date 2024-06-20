@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mohammadjavadd.github.io/Home/sitemap.xml
+Sitemap: https://mohammadjavadd.github.io/Home/Home/sitemap.xml
