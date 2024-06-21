@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mohammad-Javad
-middle_name: 
+middle_name:
 last_name: Darvishi Bayazi
 email: mohammad.bayazi@mila.quebec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is via LinkedIn. 
+  The best way to reach me is via LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
