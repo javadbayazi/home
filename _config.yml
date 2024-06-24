@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mohammad-Javad
 middle_name:
-last_name: Darvishi Bayazi
+last_name: Darvishi-Bayazi
 email: mohammad.bayazi@mila.quebec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mohammad-Javad Darvishi Bayazi website
@@ -131,8 +131,8 @@ bing_site_verification: 106826BC64912BA63E6FA6F556F43D39 # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: MJ-folio # blog_name will be displayed in your blog page
-blog_description: a simple website for [TODO]
+blog_name: MJ-Blog # blog_name will be displayed in your blog page
+blog_description: My personal blog # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -168,11 +168,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+    rss_url: https://medium.com/@mj.darvishi92/feed
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -303,8 +303,20 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [
+    "Research",
+    "EEG",
+    "MachineLearning",
+    "BiomedicalEngineering",
+    "Neuroscience",
+    "ComputersInBiologyAndMedicine",
+    "PathologyClassifier",
+    "TransferLearning",
+    "HuggingfaceSpaces",
+    "OpenScience",
+    "Reproducibility",
+  ] # these tags will be displayed on the front page of your blog
+display_categories: ["research-publications"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
