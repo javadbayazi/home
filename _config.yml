@@ -323,8 +323,8 @@ display_categories: ["research-publications"] # these categories will be display
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Darvishi-Bayazi]
+  first_name: [Mohammad-Javad, M. J.]
 
   style: apa
   locale: en
