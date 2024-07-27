@@ -8,4 +8,4 @@ tags: ICML, ArtificialIntelligence, NeuralNetworks, VFA, Research
 categories: conference-highlights
 ---
 
-Read our **VFA: Vision Frequency Analysis of Foundation Models and Human** paper on  [OpenReview](https://openreview.net/forum?id=06wc6xGR1A). It was a fantastic opportunity to connect and exchange ideas with fellow enthusiasts! 🧠💡
+Read our **VFA: Vision Frequency Analysis of Foundation Models and Human** paper on [OpenReview](https://openreview.net/forum?id=06wc6xGR1A). It was a fantastic opportunity to connect and exchange ideas with fellow enthusiasts! 🧠💡
