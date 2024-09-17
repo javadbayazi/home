@@ -27,7 +27,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 <!-- You can add download links or display the certificates directly here. -->
 
-[Cognitive Computation](/assets/pdf/CC_Reviewer_Certificate.pdf)
+[Cognitive Computation](/home/assets/pdf/CC_Reviewer_Certificate.pdf)
 
 <!-- [Certificate 2](link_to_certificate_2.pdf) -->
 
