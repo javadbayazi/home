@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: services
-description: My Professional Activities  #Professional activities such as teaching, reviewing, and other contributions.
+description: My Professional Activities #Professional activities such as teaching, reviewing, and other contributions.
 nav: true
 nav_order: 6
 ---
@@ -26,7 +26,9 @@ I have had the opportunity to review papers for the following conferences and jo
 ## Review Certificates
 
 <!-- You can add download links or display the certificates directly here. -->
-[Cognitive Computation](/assets/pdf/CC_Reviewer_Certificate.pdf)  
+
+[Cognitive Computation](/assets/pdf/CC_Reviewer_Certificate.pdf)
+
 <!-- [Certificate 2](link_to_certificate_2.pdf) -->
 
 <!-- # Other Professional Contributions -->

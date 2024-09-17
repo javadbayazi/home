@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mila.quebec/en/mohammad-javad-darvishi-bayazi-darvishi-bayazi'>Mila</a>. Umontreal, Montreal, Canada.
+subtitle: <a href='https://mila.quebec/en/directory/mohammad-javad-darvishi-bayazi-darvishi-bayazi'>Mila</a>. Umontreal, Montreal, Canada.
 
 profile:
   align: right
