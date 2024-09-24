@@ -21,7 +21,9 @@ nav_order: 6
 I have had the opportunity to review papers for the following conferences and journals:
 
 - **[Transactions on Machine Learning Research](https://jmlr.org/tmlr/):** Reviewed papers on representation learning and robustness.
-- **[Cognitive Computation](https://link.springer.com/journal/12559):** Reviewed papers focusing on cognitive psychology and artificial intelligence.
+- **[International Conference on Learning Representations (ICLR)](https://iclr.cc/):** Reviewed papers on deep learning. <!--and robustness.-->
+- **[Cognitive Computation Journal](https://link.springer.com/journal/12559):** Reviewed papers focused on cognitive psychology and artificial intelligence.
+- **[Workshops at Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/):** Reviewed works focused on artificial intelligence.
 
 ## Review Certificates
 
