@@ -24,7 +24,7 @@ I have had the opportunity to review papers for the following conferences and jo
 - **[International Conference on Learning Representations (ICLR)](https://iclr.cc/):** Reviewed papers on deep learning. <!--and robustness.-->
 - **[Cognitive Computation Journal](https://link.springer.com/journal/12559):** Reviewed papers focused on cognitive psychology and Artificial Intelligence.
 - **[Scientific Reports Journal](https://www.nature.com/srep/):** Reviewed papers focused on Neuroscience, psychology and Artificial Intelligence.
-- **[Workshops at Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/):** Reviewed works focused on Artificial Intelligence, Creativity & Generative AI, Causality and Large Models and Time Series Analysis.
+- **[Workshops at Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/):** Reviewed works focused on Artificial Intelligence, [Creativity & Generative AI](https://creativity-ai.github.io/), [Causality and Large Models](https://calm-workshop-2024.github.io/team/#reviewers) and [Time Series Analysis](https://neurips-time-series-workshop.github.io/).
 
 ## Review Certificates
 
