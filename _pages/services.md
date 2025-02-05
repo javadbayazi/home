@@ -33,6 +33,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 <!-- You can add download links or display the certificates directly here. -->
 
+- **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
 - **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Cognitive Computation</a>**
 - **<a href="/home/assets/pdf/SR_Reviewer_Certificate.pdf" style="text-decoration: underline;">Scientific Reports</a>**
 
