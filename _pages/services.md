@@ -37,7 +37,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 - **<a href="/home/assets/pdf/AIIM_Reviewer_Certificate.pdf" style="text-decoration: underline;">Artificial Intelligence in Medicine</a>**
 - **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
-- **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Cognitive Computation</a>**
+- **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Springer Nature Cognitive Computation</a>**
 - **<a href="/home/assets/pdf/SR_Reviewer_Certificate.pdf" style="text-decoration: underline;">Nature Scientific Reports</a>**
 
 <!-- [Certificate 2](link_to_certificate_2.pdf) -->
