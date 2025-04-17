@@ -36,7 +36,6 @@ I have had the opportunity to review papers for the following conferences and jo
 <!-- You can add download links or display the certificates directly here. -->
 
 - **<a href="/home/assets/pdf/ٍEAAI_Certificate_EAAI_Recognised.pdf" style="text-decoration: underline;">Engineering Applications of Artificial Intelligence</a>**
-
 - **<a href="/home/assets/pdf/AIIM_Reviewer_Certificate.pdf" style="text-decoration: underline;">Artificial Intelligence in Medicine</a>**
 - **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
 - **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Springer Nature Cognitive Computation</a>**
