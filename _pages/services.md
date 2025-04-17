@@ -22,7 +22,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 - **[International Conference on Learning Representations (ICLR)](https://iclr.cc/):** Reviewed papers on deep learning. <!--and robustness.-->
 - **[Transactions on Machine Learning Research](https://jmlr.org/tmlr/):** Reviewed papers on representation learning and robustness.
-
+- **[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence):** Reviewed papers focused on application of Artificial Intelligence in Engineering.
 - **[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine):** Reviewed papers focused on application of Artificial Intelligence in Medicine.
 - **[Scientific Reports Journal](https://www.nature.com/srep/):** Reviewed papers focused on Neuroscience, psychology and Artificial Intelligence.
 - **[NeuroImage Journal](https://www.sciencedirect.com/journal/neuroimage):** Reviewed papers focused on cognitive psychology and Artificial Intelligence.
@@ -34,6 +34,8 @@ I have had the opportunity to review papers for the following conferences and jo
 ## Review Certificates
 
 <!-- You can add download links or display the certificates directly here. -->
+
+- **<a href="/home/assets/pdf/ٍEAAI_Certificate_EAAI_Recognised.pdf" style="text-decoration: underline;">Engineering Applications of Artificial Intelligence</a>**
 
 - **<a href="/home/assets/pdf/AIIM_Reviewer_Certificate.pdf" style="text-decoration: underline;">Artificial Intelligence in Medicine</a>**
 - **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
