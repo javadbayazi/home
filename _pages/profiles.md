@@ -14,8 +14,8 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>6666 Rue Saint-Urbain</p>
-    <p>Montreal, Qc, Canada H2S 3H1</p>
+      <p>6666 Rue Saint-Urbain</p>
+      <p>Montreal, Qc, Canada H2S 3H1</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
