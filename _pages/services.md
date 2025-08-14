@@ -16,7 +16,7 @@ nav_order: 6
 
 # Reviewing Services
 
-<!-- This section is for highlighting your reviewing services and uploading review certificates. -->
+For an up-to-date and verified list of my reviewing activities, please visit my [ORCID profile > Peer review section](https://orcid.org/0000-0002-3251-8491).
 
 I have had the opportunity to review papers for the following conferences and journals:
 
