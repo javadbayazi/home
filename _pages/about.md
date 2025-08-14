@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mila.quebec/en/directory/mohammad-javad-darvishi-bayazi-darvishi-bayazi'>Mila</a>. Umontreal, Montreal, Canada.
+# subtitle: <a href='https://mila.quebec/en/directory/mohammad-javad-darvishi-bayazi-darvishi-bayazi'>Mila</a>. Umontreal, Montreal, Canada.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-MJ is a PhD student at Mila and the University of Montreal (UdeM), working under the supervision of Jocelyn Faubert and Irina Rish. MJ's research focuses on robustness and transfer learning in artificial intelligence, with recent work evaluating and developing foundation models and time series forecasting. He has dedicated his academic career to exploring the intricacies of AI, aiming to develop models that are not only advanced but also reliable and adaptable. MJ's contributions to the field are poised to make significant impacts on both theoretical research and practical applications in AI and cognitive science.
+Javad Bayazi is an Artificial Intelligence (AI) Research Scientist at Hydro-Québec Research Institute ([IREQ](https://www.hydroquebec.com/innovation/en/technological-evolution/innovative-strength/)) where he focuses on developing innovative AI solutions for the renewable energy sector, with particular emphasis on foundation models and time series forecasting. Prior to this role, he was a PhD student at Mila - Quebec Artificial Intelligence Institute ([Mila](https://mila.quebec/en/)) and the Université de Montréal ([UdeM](https://www.umontreal.ca/en/)), working under the supervision of [Jocelyn Faubert](https://share.google/hmD2Gr798nd3lj6Fp) and [Irina Rish](https://share.google/8H2bym8xWPSTz5oJZ). Javad's research focuses on robustness and transfer learning in artificial neural networks, with recent work evaluating and developing foundation models and time series forecasting ([Google scholar profile](https://scholar.google.com/citations?user=QL5PQQgAAAAJ&hl=en)). He has dedicated his academic career to exploring the frontiers of AI, aiming to develop models that are not only accurate but also reliable and adaptable. Javad's contributions to the field are poised to make significant impacts on both theoretical research and practical applications in AI and cognitive science.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
