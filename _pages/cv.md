@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 3
 cv_pdf: Mohammad_Bayazi_Resume.pdf
-description: Here, you will find a overview of my professional journey. To download a PDF version of my resume, please click on the top pdf download button.
+description: Here, you will find a overview of my professional journey. To download a PDF version of my resume, please click on the top pdf download button (Last updated August 2024).
 #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left

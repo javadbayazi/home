@@ -4,10 +4,12 @@ permalink: /repositories/
 title: repositories
 description: GitHub profile and repositories.
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
-## GitHub users
+<!-- ## GitHub users -->
+
+Visit my [GitHub Profile](https://github.com/MohammadJavadD) for the latest updates and activities.
 
 {% if site.data.repositories.github_users %}
 

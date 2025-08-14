@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>6666 Rue Saint-Urbain</p>
-    <p>Montreal, Qc, Canada H2S 3H1</p>
+    <p></p>
+    <p>Montreal, Qc, Canada</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
