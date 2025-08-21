@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: services
-description: My Professional Activities (Last updated March 2025) #Professional activities such as teaching, reviewing, and other contributions.
+description: My Professional Activities (Last updated August 2025) #Professional activities such as teaching, reviewing, and other contributions.
 nav: true
 nav_order: 5
 ---
@@ -25,6 +25,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 - **[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence):** Reviewed works focused on application of Artificial Intelligence.
 - **[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine):** Reviewed papers focused on application of Artificial Intelligence in Medicine.
+- **[npj Digital Medicine](https://www.nature.com/npjdigitalmed/):** Reviewed papers focused on digital technologies (e.g. machine learning) in medicine and healthcare. [Impact Factor: 15.357, 5-year Journal Impact Factor: 17.0 (2024)](https://www.nature.com/npjdigitalmed/journal-impact)
 - **[Scientific Reports Journal](https://www.nature.com/srep/):** Reviewed papers focused on Neuroscience, psychology and Artificial Intelligence.
 - **[NeuroImage Journal](https://www.sciencedirect.com/journal/neuroimage):** Reviewed papers focused on cognitive psychology and Artificial Intelligence.
 - **[Cognitive Computation Journal](https://link.springer.com/journal/12559):** Reviewed papers focused on cognitive psychology and Artificial Intelligence.
@@ -36,6 +37,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 - **<a href="/home/assets/pdf/ٍEAAI_Certificate_EAAI_Recognised.pdf" style="text-decoration: underline;">Engineering Applications of Artificial Intelligence</a>**
 - **<a href="/home/assets/pdf/AIIM_Reviewer_Certificate.pdf" style="text-decoration: underline;">Artificial Intelligence in Medicine</a>**
+- **<a href="/home/assets/pdf/NPJDM_Reviewer_Certificate.pdf" style="text-decoration: underline;">npj Digital Medicine</a>**
 - **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
 - **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Springer Nature Cognitive Computation</a>**
 - **<a href="/home/assets/pdf/SR_Reviewer_Certificate.pdf" style="text-decoration: underline;">Nature Scientific Reports</a>**
