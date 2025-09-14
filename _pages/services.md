@@ -35,7 +35,7 @@ I have had the opportunity to review papers for the following conferences and jo
 
 ## Review Certificates
 
-Below is a collection of certificates I've received for my reviewing activities. Each certificate recognizes my contribution to the peer review process for various academic journals and conferences in the fields of artificial intelligence, machine learning, and their applications in finance,engineering, medicine and healthcare.
+Below is a collection of certificates I've received for my reviewing activities. Each certificate recognizes my contribution to the peer review process for various academic journals and conferences in the fields of artificial intelligence, machine learning, and their applications in finance, engineering, medicine and healthcare.
 
 {% include certificate_gallery.html %}
 

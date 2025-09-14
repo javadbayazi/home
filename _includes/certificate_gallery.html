@@ -21,7 +21,7 @@
           {% endif %}
 
           <p class="card-text mt-2">
-            <a href="{{ site.baseurl }}{{ certificate.path }}" target="_blank" class="btn btn-sm btn-primary">
+            <a href="{{ site.baseurl }}{{ certificate.path }}" target="_blank" class="btn btn-sm custom-btn-purple">
               <i class="fas fa-file-pdf"></i> View Certificate
             </a>
           </p>
@@ -34,12 +34,36 @@
 
 <style>
   .certificate-gallery .card {
-    transition: transform 0.3s ease;
+    transition:
+      transform 0.3s ease,
+      box-shadow 0.3s ease;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-color: rgba(var(--global-divider-color), 0.3);
+    background-color: var(--global-card-bg-color);
   }
   .certificate-gallery .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  .certificate-gallery .card-title {
+    color: var(--global-text-color);
+  }
+  .certificate-gallery .card-text {
+    color: var(--global-text-color-light);
+  }
+  .certificate-gallery .custom-btn-purple {
+    background-color: #b509ac;
+    border-color: #b509ac;
+    color: white;
+  }
+  .certificate-gallery .custom-btn-purple:hover {
+    background-color: #9c0893;
+    border-color: #9c0893;
+    color: white;
+  }
+  /* Dark mode support */
+  html[data-theme="dark"] .certificate-gallery .card {
+    border-color: var(--global-divider-color);
   }
 </style>
