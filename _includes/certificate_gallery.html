@@ -1,0 +1,45 @@
+<!-- Certificate Gallery -->
+<div class="certificate-gallery">
+  <div class="row mt-3">
+    {% assign certificate_files = site.static_files | where_exp: "file", "file.path contains '/assets/pdf/rev_cert/'" | sort: "name" %} {% for
+    certificate in certificate_files %}
+    <div class="col-sm-6 col-md-4 mb-3">
+      <div class="card h-100">
+        <div class="card-body">
+          {% assign filename = certificate.basename %} {% if filename contains 'Reviewer_Certificate_' %} {% assign date_parts = filename | remove:
+          'Reviewer_Certificate_' | split: '_' %} {% assign year = date_parts[0] %} {% assign month = date_parts[1] %} {% assign day = date_parts[2]
+          %} {% case month %} {% when '01' %}{% assign month_name = 'January' %} {% when '02' %}{% assign month_name = 'February' %} {% when '03' %}{%
+          assign month_name = 'March' %} {% when '04' %}{% assign month_name = 'April' %} {% when '05' %}{% assign month_name = 'May' %} {% when '06'
+          %}{% assign month_name = 'June' %} {% when '07' %}{% assign month_name = 'July' %} {% when '08' %}{% assign month_name = 'August' %} {% when
+          '09' %}{% assign month_name = 'September' %} {% when '10' %}{% assign month_name = 'October' %} {% when '11' %}{% assign month_name =
+          'November' %} {% when '12' %}{% assign month_name = 'December' %} {% endcase %}
+
+          <h5 class="card-title">Reviewer Certificate</h5>
+          <p class="card-text">{{ day | remove_first: '0' }} {{ month_name }} {{ year }}</p>
+          {% else %}
+          <h5 class="card-title">{{ certificate.basename | replace: '_', ' ' }}</h5>
+          {% endif %}
+
+          <p class="card-text mt-2">
+            <a href="{{ site.baseurl }}{{ certificate.path }}" target="_blank" class="btn btn-sm btn-primary">
+              <i class="fas fa-file-pdf"></i> View Certificate
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+  .certificate-gallery .card {
+    transition: transform 0.3s ease;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .certificate-gallery .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+</style>

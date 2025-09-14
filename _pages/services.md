@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: services
-description: My Professional Activities (Last updated August 2025) #Professional activities such as teaching, reviewing, and other contributions.
+description: My Professional Activities (Last updated September 2025) #Professional activities such as teaching, reviewing, and other contributions.
 nav: true
 nav_order: 5
 ---
@@ -35,14 +35,20 @@ I have had the opportunity to review papers for the following conferences and jo
 
 ## Review Certificates
 
+Below is a collection of certificates I've received for my reviewing activities. Each certificate recognizes my contribution to the peer review process for various academic journals and conferences in the fields of artificial intelligence, machine learning, and their applications in finance,engineering, medicine and healthcare.
+
+{% include certificate_gallery.html %}
+
+<!-- The certificate gallery above automatically loads all PDFs from the /assets/pdf/rev_cert directory -->
+
+<!-- Legacy certificate links (kept for reference)
 - **<a href="/home/assets/pdf/ٍEAAI_Certificate_EAAI_Recognised.pdf" style="text-decoration: underline;">Engineering Applications of Artificial Intelligence</a>**
 - **<a href="/home/assets/pdf/AIIM_Reviewer_Certificate.pdf" style="text-decoration: underline;">Artificial Intelligence in Medicine</a>**
 - **<a href="/home/assets/pdf/NPJDM_Reviewer_Certificate.pdf" style="text-decoration: underline;">npj Digital Medicine</a>**
 - **<a href="/home/assets/pdf/NI_Reviewer_Certificate.pdf" style="text-decoration: underline;">NeuroImage</a>**
 - **<a href="/home/assets/pdf/CC_Reviewer_Certificate.pdf" style="text-decoration: underline;">Springer Nature Cognitive Computation</a>**
 - **<a href="/home/assets/pdf/SR_Reviewer_Certificate.pdf" style="text-decoration: underline;">Nature Scientific Reports</a>**
-
-<!-- [Certificate 2](link_to_certificate_2.pdf) -->
+-->
 
 <!-- # Other Professional Contributions -->
 
