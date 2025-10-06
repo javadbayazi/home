@@ -1,8 +1,9 @@
 github_users:
-  - MohammadJavadD
+  - javadbayazi
 
 github_repos:
-  - MohammadJavadD/APD_EEG
-  - MohammadJavadD/TI-DG
+  - CERC-AAI/bfm
+  - javadbayazi/APD_EEG
+  - javadbayazi/TI-DG
   - jc-audet/WOODS
-  - MohammadJavadD/PsychoLLaVA
+  - javadbayazi/PsychoLLaVA

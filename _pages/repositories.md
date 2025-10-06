@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- ## GitHub users -->
 
-Visit my [GitHub Profile](https://github.com/MohammadJavadD) for the latest updates and activities.
+Visit my [GitHub Profile](https://github.com/javadbayazi) for the latest updates and activities.
 
 {% if site.data.repositories.github_users %}
 

@@ -19,6 +19,6 @@ categories: research-publications
 💬 Feel free to reach out if you encounter any issues. We're here to help!
 
 - **Paper:** [https://www.sciencedirect.com/science/article/pii/S0010482523013586](https://www.sciencedirect.com/science/article/pii/S0010482523013586)
-- **Github:** [https://github.com/MohammadJavadD/APD_EEG](https://github.com/MohammadJavadD/APD_EEG)
+- **Github:** [https://github.com/javadbayazi/APD_EEG](https://github.com/javadbayazi/APD_EEG)
 - **Huggingface:** [https://huggingface.co/spaces/MJ/EEG_cls](https://huggingface.co/spaces/MJ/EEG_cls)
-- **Binder:** [https://mybinder.org/v2/gh/MohammadJavadD/APD_EEG/HEAD](https://mybinder.org/v2/gh/MohammadJavadD/APD_EEG/HEAD)
+- **Binder:** [https://mybinder.org/v2/gh/javadbayazi/APD_EEG/HEAD](https://mybinder.org/v2/gh/javadbayazi/APD_EEG/HEAD)
