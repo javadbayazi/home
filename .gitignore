@@ -12,3 +12,7 @@ node_modules/
 vendor
 .idea
 Gemfile.lock
+
+# IndexNow
+indexnow_api_key.txt
+.venv/
