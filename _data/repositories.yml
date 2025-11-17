@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - javadbayazi
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - CERC-AAI/bfm
+  - javadbayazi/APD_EEG
+  - belaalb/G2DM
+  - jc-audet/WOODS
+  - javadbayazi/PsychoLLaVA
