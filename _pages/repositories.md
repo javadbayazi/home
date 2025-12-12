@@ -1,13 +1,19 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: GitHub profile and repositories.
+title: projects & apps
+description: GitHub repositories and Hugging Face Spaces with interactive ML demos.
 nav: true
 nav_order: 2
 ---
 
+## Hugging Face Spaces
+
+Check out some cool applications on my [Hugging Face Spaces](https://huggingface.co/JavadBayazi) for interactive ML demos and tools.
+
 <!-- ## GitHub users -->
+
+## GitHub Profile
 
 Visit my [GitHub Profile](https://github.com/javadbayazi) for the latest updates and activities.
 
