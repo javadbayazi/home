@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "post-time-series-forecasting-demo",
+        },{id: "post-time-series-forecasting-interactive-tool",
         
-          title: "Time Series Forecasting demo",
+          title: "Time Series Forecasting Interactive Tool",
         
-        description: "A demo of time series forecasting",
+        description: "An interactive tool for time series forecasting",
         section: "Posts",
         handler: () => {
           
